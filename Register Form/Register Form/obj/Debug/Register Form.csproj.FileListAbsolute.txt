@@ -1,0 +1,11 @@
+C:\LanSchool Files\Raffy\Register Form\Register Form\bin\Debug\Register Form.exe.config
+C:\LanSchool Files\Raffy\Register Form\Register Form\bin\Debug\Register Form.exe
+C:\LanSchool Files\Raffy\Register Form\Register Form\bin\Debug\Register Form.pdb
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register Form.csproj.AssemblyReference.cache
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register Form.csproj.SuggestedBindingRedirects.cache
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register_Form.Form1.resources
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register_Form.Properties.Resources.resources
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register Form.csproj.GenerateResource.cache
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register Form.csproj.CoreCompileInputs.cache
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register Form.exe
+C:\LanSchool Files\Raffy\Register Form\Register Form\obj\Debug\Register Form.pdb
